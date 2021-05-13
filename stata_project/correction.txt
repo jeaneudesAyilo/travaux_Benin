@@ -1,0 +1,5 @@
+http://www.cazaar.com/ta/econ113/interpreting-beta
+
+log Cons = a + bêta.urban (%)  beta = 0.001 for example 
+
+l'interpretation de bêta : une augmentation du taux d'urbanisation d'un point de pourcentage entraine une augmentation de Cons de 100*bêta pourcent  (0.001 *100 = 0.1 donc 0.1 beta pourcent)
